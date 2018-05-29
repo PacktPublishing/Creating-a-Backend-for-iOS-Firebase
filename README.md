@@ -35,9 +35,9 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 ### Technical Requirements
 This course has the following software and hardware requirements:<br/>
 
-●	Xcode
+●	Xcode 9
 
-●	M ac Computer
+●	Mac Computer
 
 This course has been tested on the following system configuration:
 
