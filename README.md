@@ -23,7 +23,6 @@ After installing Firebase, you'll move on to learn how to build our social netwo
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-To fully benefit from the coverage included in this course, you will need:
 
 ●	Prior working knowledge of Xcode and Swift
 
@@ -34,8 +33,7 @@ To fully benefit from the coverage included in this course, you will need:
 
 
 ### Technical Requirements
-This course has the following software requirements:<br/>
-This course has the following software  and hardware requirements:
+This course has the following software and hardware requirements:<br/>
 
 ●	Xcode
 
